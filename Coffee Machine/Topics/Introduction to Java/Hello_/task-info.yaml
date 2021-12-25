@@ -1,0 +1,11 @@
+type: code
+custom_name: Hello!
+files:
+- name: src/Task.java
+  visible: true
+  text: "// write your answer here \n\npublic class Task {\n  public static void main(String[]\
+    \ args) {\n    // put your code here\n  }\n}\n"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4709#comment
+status: Solved
+record: -1
