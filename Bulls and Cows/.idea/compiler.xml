@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-ArrayList-Creating_list.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-ArrayList-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Floating-point_types-Area_of_a_circle.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Correct_the_program.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Creating_instances.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Declaring_generic_classes_-_2.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Pastry_packing_optimization.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Type_arguments_-_2.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Introduction_to_generic_programming-Type_parameter_inside_a_class_body.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Math_library-Pow.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-Math_library-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_List_interface-Companies.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_List_interface-Filtering_the_list.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_List_interface-Similarities_between_lists_and_arrays.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_List_interface-Split_a_list_into_sublists.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_List_interface-The_longest_string_in_the_list.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-The_List_interface-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
